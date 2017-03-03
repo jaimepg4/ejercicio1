@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo ' version1';
+        echo 'version2';
         ?>
     </body>
 </html>
